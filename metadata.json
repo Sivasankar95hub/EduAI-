@@ -1,0 +1,6 @@
+{
+  "name": "EduMind AI",
+  "description": "AI-Powered CBSE NEP Learning Platform teaching Artificial Intelligence, 21st Century Skills, Coding, and Future Skills.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
